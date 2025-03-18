@@ -1,0 +1,6 @@
+train: /home/ps/DiskA/shijiale/v8-improve/ultralytics_improve-SPD-Conv/datasets/AIR/train/images
+val: /home/ps/DiskA/shijiale/v8-improve/ultralytics_improve-SPD-Conv/datasets/AIR/valid/images
+test: /home/ps/DiskA/shijiale/v8-improve/ultralytics_improve-SPD-Conv/datasets/AIR/test/images
+
+nc: 1
+names: ['person']

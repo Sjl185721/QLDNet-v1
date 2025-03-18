@@ -1,0 +1,6 @@
+train: /home/ps/DiskA/shijiale/v8-improve/ultralytics_improve-mask/datasets/VTSaR_Crop_640/train/images
+val: /home/ps/DiskA/shijiale/v8-improve/ultralytics_improve-mask/datasets/VTSaR_Crop_640/valid/images
+test: /home/ps/DiskA/shijiale/v8-improve/ultralytics_improve-mask/datasets/VTSaR_Crop_640/test/images
+
+nc: 1
+names: ['person']
